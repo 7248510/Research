@@ -4,3 +4,5 @@
  * CNIT 127(https://samsclass.info/)/Sam Bowne
  * Github(Stars)
  * Stackoverflow
+ * MITRE ATT&CK 
+ * Lockheed Martin Cyber Kill Chain
