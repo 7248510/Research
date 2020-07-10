@@ -6,3 +6,10 @@
  * Stackoverflow
  * MITRE ATT&CK 
  * Lockheed Martin Cyber Kill Chain
+ * OWASP 
+ * Vuln Server
+ * Exploit DB
+ * OldApps
+ * OldVersions
+ * Corelan
+ * FuzzySecurity
