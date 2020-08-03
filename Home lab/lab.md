@@ -13,7 +13,8 @@ Research/notes on regarding my cyber security lab.
 
 ## Infrastrucure
     Testing = Exploit development environment
-    External(10.0.0.1)(Bridged) > DMZ(10.0.1.2) > Internal(192.168.1.1) IP'S are subject to change
+    External(10.0.0.1)(Bridged) > DMZ(10.0.1.2>Host) > Internal(192.168.1.1) IP'S are subject to change
     External = CTF'S/Basic entry points | I've modeled external to using a Google Dork/scanning with Shodan or finding a vulnerable server
     DMZ = CTF's/
+    Security Onion & PfSense for a firewall and IDS
     Internal = Windows Server(Currently creating AD), Databases(MySQL/Mongo), Windows 7 & 10
