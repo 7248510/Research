@@ -1,4 +1,4 @@
-# (So far I only have the user)
+
 1. Run nmap. nmap IP -sV -A
   * User
     <br>Viewing the results we see there's an FTP login that allows an Anonymous logins
@@ -13,5 +13,7 @@
     ./prtg.sh -u [IPADDDRESS] -c "OCTOPUS1813713946:"ezI3MjkwRTQ2LThGNTEtNDY2Ri1CMTU0LUUwOTA2OEY5Qzk1MH0%3D""
     <br>At this point I was completely clueless on how to get into this box. The walkthrough revealed their is a command injection vulnerability.
     https://www.codewatch.org/blog/?p=453
-    <br>Still not in the box but I'm a little closer.
-    
+    Navigate to PTRG's directory. Find the configuration files. The specific file has old in the title.
+    Using cat or a text editor the password is visible. But the password does not work.<br>HackTheBox forums hinted something related to the year.
+    "PrTg@dmin2018" +1 year = PrTg@dmin2019
+    Notifications allow you to execute a program.<br>Pass a commands through the parameters field and launch the notification to execute the typed command.
