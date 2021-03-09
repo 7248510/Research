@@ -16,4 +16,4 @@
     Navigate to PTRG's directory. Find the configuration files. The specific file has old in the title.
     Using cat or a text editor the password is visible. But the password does not work.<br>HackTheBox forums hinted something related to the year.
     "PrTg@dmin2018" +1 year = PrTg@dmin2019
-    Notifications allow you to execute a program.<br>Pass a commands through the parameters field and launch the notification to execute the typed command.
+    Notifications allow you to execute a program. Pass a commands through the parameters field and launch the notification to execute the typed command.
