@@ -20,4 +20,3 @@
  * All of the walkthrough through HackTheBox are retired machines
  * I have converted my notes into a walkthrough
  * HackTheBox walkthroughs are located in the HTB folder
- * VulnHub walkthroughs will be located in the vuln folder
