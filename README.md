@@ -21,6 +21,3 @@
  * I have converted my notes into a walkthrough
  * HackTheBox walkthroughs are located in the HTB folder
  * VulnHub walkthroughs will be located in the vuln folder
-
-## Malware Analysis:
- * Coming soon
