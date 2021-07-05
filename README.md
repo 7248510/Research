@@ -16,6 +16,9 @@
  * Practical Malware Analysis by Michael Sikorski and Andrew Honig
  * Hands On Hacking by Matthew Hickey With Jennifer Arcuri
  * Offensive Security 
+ * Udemy
+ * Practical IoT Hacking
+ * The Ghidra Book
 ## Walkthroughs:
  * All of the walkthrough through HackTheBox are retired machines
  * I have converted my notes into a walkthrough
