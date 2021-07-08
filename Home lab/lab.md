@@ -4,12 +4,11 @@ Research/notes on regarding my cyber security lab.
 * Machines:
     * Linux: Debian, CentOS
     * Windows: Windows 7,10,19
-    * FreeBSD: pfSense
+    * FreeBSD: PfSense
     * [Legacy Windows 10] (https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
     * [Windows Server 19] (https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
-    * CTFS (https://www.vulnhub.com/)
+    * CTFS (VulnHub/GitHub)
 
-* Exercises:
 
 ## Infrastrucure
     Testing = Exploit development environment

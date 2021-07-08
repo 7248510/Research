@@ -23,3 +23,7 @@
  * All of the walkthrough through HackTheBox are retired machines
  * I have converted my notes into a walkthrough
  * HackTheBox walkthroughs are located in the HTB folder
+
+## Exploits:
+* Windows 10 has all of the exploit protections disabled.
+* Linux has their exploit mitigation's disabled.
